@@ -4,17 +4,15 @@ Research and educational resources covering PKP2, plakophilin-2, PKP2-associated
 
 ## Overview
 
-PKP2-associated arrhythmogenic cardiomyopathy is an inherited cardiac disease associated with pathogenic variants in the PKP2 gene, which encodes the protein plakophilin-2.
+PKP2-associated arrhythmogenic cardiomyopathy is an inherited cardiac disease associated with pathogenic variants in the PKP2 gene, which encodes plakophilin-2.
 
 PKP2 is an important component of the cardiac intercalated disc, where proteins involved in cell adhesion, mechanical integrity, and electrical signaling are closely organized.
 
-Changes in PKP2 can therefore affect more than the physical connection between cardiac muscle cells. Research has linked PKP2 dysfunction with changes in desmosomal organization, cardiac electrical activity, and susceptibility to ventricular arrhythmias.
+Changes in PKP2 can affect both the structural organization and electrical behavior of cardiac tissue. Research has linked PKP2 dysfunction with changes in desmosomal organization, cardiac electrical activity, and susceptibility to ventricular arrhythmias.
 
-This repository brings together the main concepts needed to understand that relationship, from PKP2 biology and desmosomal function to PKP2-associated arrhythmogenic cardiomyopathy and the development of investigational gene therapy approaches.
+This repository brings together information on PKP2 biology, the relationship between PKP2 and arrhythmogenic cardiomyopathy, clinical research, and emerging gene therapy approaches.
 
-The repository also documents the clinical development of RP-A601, an investigational gene therapy being studied for PKP2-associated arrhythmogenic cardiomyopathy.
-
----
+The repository also covers RP-A601, an investigational gene therapy being studied for PKP2-associated arrhythmogenic cardiomyopathy.
 
 ## What is PKP2?
 
@@ -29,8 +27,6 @@ PKP2 also has relationships with proteins and structures involved in cardiac ele
 This helps explain why pathogenic PKP2 variants can be associated with both structural abnormalities and arrhythmias.
 
 PKP2 is one of the major desmosomal genes associated with arrhythmogenic cardiomyopathy.
-
----
 
 ## What is plakophilin-2?
 
@@ -53,8 +49,6 @@ Research has therefore investigated PKP2 in relation to:
 - Ventricular arrhythmias
 - Cardiac remodeling
 
----
-
 ## What is PKP2-associated arrhythmogenic cardiomyopathy?
 
 PKP2-associated arrhythmogenic cardiomyopathy, commonly abbreviated PKP2-ACM, is an inherited form of arrhythmogenic cardiomyopathy associated with pathogenic variants in PKP2.
@@ -69,8 +63,6 @@ Current disease concepts recognize that arrhythmogenic cardiomyopathy can involv
 
 PKP2 is particularly important in the desmosomal form of arrhythmogenic cardiomyopathy.
 
----
-
 ## PKP2 and the cardiac desmosome
 
 Desmosomes provide strong cell-to-cell adhesion.
@@ -78,8 +70,6 @@ Desmosomes provide strong cell-to-cell adhesion.
 This function is especially important in the heart because cardiomyocytes experience repeated mechanical stress as the heart contracts.
 
 Several proteins contribute to the cardiac desmosome and surrounding intercalated-disc structure.
-
-Important examples include:
 
 | Gene | Protein | General role |
 |---|---|---|
@@ -92,8 +82,6 @@ Important examples include:
 These proteins form part of a larger network rather than operating independently.
 
 For this reason, PKP2 research often examines changes in the broader intercalated-disc environment.
-
----
 
 ## Why does PKP2 matter for cardiac electrical function?
 
@@ -129,8 +117,6 @@ Arrhythmogenic cardiomyopathy
 
 This is a simplified representation of a much more complex biological system.
 
----
-
 ## How pathogenic PKP2 variants can affect the heart
 
 Pathogenic PKP2 variants can reduce or alter the normal function of plakophilin-2.
@@ -152,8 +138,6 @@ The clinical expression of PKP2-associated disease varies between individuals.
 A genetic finding therefore does not by itself describe the full clinical course of a patient.
 
 Clinical assessment can involve genetic testing, electrocardiography, rhythm monitoring, cardiac imaging, family history, clinical history, and other measures of cardiac function.
-
----
 
 ## PKP2-ACM and ventricular arrhythmias
 
@@ -180,8 +164,6 @@ No single measurement provides a complete description of PKP2-ACM.
 
 Clinical research therefore combines different forms of evidence to understand disease progression and treatment response.
 
----
-
 ## Why is gene therapy being studied for PKP2-ACM?
 
 Most established management approaches for arrhythmogenic cardiomyopathy are directed toward managing the consequences and risks associated with the disease.
@@ -196,9 +178,7 @@ This is an investigational approach.
 
 A biological rationale does not establish that a gene therapy is safe or effective in patients. Clinical studies are required to determine whether changes observed at the molecular or cellular level translate into meaningful clinical outcomes.
 
----
-
-# RP-A601
+## RP-A601
 
 RP-A601 is an investigational gene therapy being developed by Rocket Pharmaceuticals for PKP2-associated arrhythmogenic cardiomyopathy.
 
@@ -211,8 +191,6 @@ The Phase 1 clinical study is registered under:
 NCT05885412
 
 The study is evaluating RP-A601 in adults with PKP2-associated arrhythmogenic cardiomyopathy.
-
----
 
 ## RP-A601 Phase 1 study
 
@@ -234,8 +212,6 @@ Early clinical development does not establish long-term efficacy.
 
 The purpose of Phase 1 development is to generate information that can guide subsequent clinical development and determine whether a therapeutic approach warrants further investigation.
 
----
-
 ## What has been reported from RP-A601?
 
 Rocket Pharmaceuticals has reported preliminary clinical findings from the Phase 1 study.
@@ -252,8 +228,6 @@ Preliminary findings are not equivalent to definitive evidence of clinical effic
 
 Future data and longer follow-up are important for determining whether observed biological changes translate into durable clinical benefit.
 
----
-
 ## Current development status of RP-A601
 
 As of the latest publicly available company update reviewed for this repository, the RP-A601 Phase 1 study remains open and enrolling.
@@ -267,8 +241,6 @@ RP-A601 is not an approved treatment for PKP2-associated arrhythmogenic cardiomy
 A potential pivotal study represents a future stage of development and should not be described as an ongoing pivotal trial unless an official source confirms that status.
 
 The current status of the clinical trial should be checked against the latest ClinicalTrials.gov record and subsequent company disclosures.
-
----
 
 ## From Phase 1 to potential pivotal development
 
@@ -299,11 +271,7 @@ The transition from Phase 1 to potential pivotal development therefore involves 
 
 For RP-A601, these questions form part of the ongoing development and regulatory discussions surrounding potential pivotal development.
 
----
-
-## Understanding the PKP2-ACM gene therapy research pathway
-
-A useful way to understand the field is to connect the disease biology with the clinical development process.
+## Understanding the PKP2-ACM gene therapy pathway
 
 ```text
 PKP2 gene
@@ -339,9 +307,7 @@ Regulatory development determines what evidence is needed for the next stage.
 
 Keeping these levels separate is important when interpreting clinical research.
 
----
-
-# Key research questions
+## Key research questions
 
 PKP2-ACM gene therapy research is addressing several important questions.
 
@@ -365,11 +331,7 @@ PKP2-ACM has variable clinical expression. Patient selection may therefore becom
 
 The transition from an early clinical study to a potential pivotal study requires decisions about patient population, endpoints, follow-up, statistical design, and safety.
 
----
-
-# PKP2-ACM terminology
-
-The following terms are closely related but should not automatically be treated as interchangeable.
+## PKP2-ACM terminology
 
 | Term | Meaning |
 |---|---|
@@ -388,207 +350,96 @@ The following terms are closely related but should not automatically be treated 
 | IND | Investigational New Drug application |
 | ICD | Implantable cardioverter-defibrillator |
 
----
+## Frequently asked questions
 
-# Frequently asked questions
-
-## What does PKP2 stand for?
+### What does PKP2 stand for?
 
 PKP2 is the gene that encodes plakophilin-2.
 
-## What is plakophilin-2?
+### What is plakophilin-2?
 
 Plakophilin-2 is a protein associated with cardiac desmosomes and the intercalated disc. It contributes to the organization of cardiac cell junctions and has relationships with systems involved in electrical signaling.
 
-## What is PKP2-ACM?
+### What is PKP2-ACM?
 
 PKP2-ACM is an inherited form of arrhythmogenic cardiomyopathy associated with pathogenic variants in PKP2.
 
-## Is PKP2-ACM the same as ARVC?
+### Is PKP2-ACM the same as ARVC?
 
 PKP2-ACM overlaps substantially with the disease historically described as arrhythmogenic right ventricular cardiomyopathy, or ARVC. Modern descriptions of arrhythmogenic cardiomyopathy recognize a broader range of cardiac phenotypes.
 
-## Why can PKP2 variants cause arrhythmias?
+### Why can PKP2 variants cause arrhythmias?
 
 PKP2 is involved in the organization of the cardiac intercalated disc and interacts with proteins involved in electrical signaling. PKP2 dysfunction can therefore affect both structural and electrical properties of cardiac tissue.
 
-## What is RP-A601?
+### What is RP-A601?
 
 RP-A601 is an investigational gene therapy being studied for PKP2-associated arrhythmogenic cardiomyopathy.
 
-## Who is developing RP-A601?
+### Who is developing RP-A601?
 
 RP-A601 is being developed by Rocket Pharmaceuticals.
 
-## What clinical trial is studying RP-A601?
+### What clinical trial is studying RP-A601?
 
 The Phase 1 clinical study is registered as NCT05885412.
 
-## Is RP-A601 approved?
+### Is RP-A601 approved?
 
 No. RP-A601 is an investigational therapy and is not an approved treatment for PKP2-associated arrhythmogenic cardiomyopathy.
 
-## What has been reported from the RP-A601 clinical program?
+### What has been reported from the RP-A601 clinical program?
 
 Rocket Pharmaceuticals has reported preliminary findings including increased PKP2 protein expression, improved desmosomal localization, and directional changes in selected arrhythmia and right ventricular measures.
 
 These findings remain part of an early-stage clinical development program.
 
-## What does RMAT designation mean?
+### What does RMAT designation mean?
 
 Regenerative Medicine Advanced Therapy designation is an FDA designation intended to facilitate development and review of certain regenerative medicine therapies for serious or life-threatening diseases.
 
 RMAT designation does not mean that a therapy has received FDA approval.
 
----
+## Research areas
 
-# Research areas covered by this repository
+This repository covers several connected areas of PKP2-ACM research:
 
-This repository will continue to expand across several connected areas.
-
-## Genetics
-
-- PKP2
-- Pathogenic PKP2 variants
-- Genetic testing
-- Inheritance
-- Genotype and phenotype
-- Desmosomal genes
-
-## Cardiac biology
-
-- Plakophilin-2
-- Desmosomes
+- PKP2 genetics
+- Plakophilin-2 biology
+- Cardiac desmosomes
 - Intercalated discs
-- Adherens junctions
-- Gap junctions
-- Sodium channel complexes
-- Cardiac electrical signaling
-
-## Disease biology
-
 - Arrhythmogenic cardiomyopathy
-- PKP2-ACM
 - Ventricular arrhythmias
-- Cardiac remodeling
-- Right ventricular dysfunction
-- Left ventricular involvement
-- Fibrotic and structural changes
-
-## Clinical research
-
-- Natural history
-- Biomarkers
-- Cardiac imaging
-- Cardiac biopsy
-- Rhythm monitoring
-- Implantable cardioverter-defibrillators
-- Clinical endpoints
-- Phase 1 studies
-- Pivotal study design
-
-## Gene therapy
-
-- AAV vectors
-- PKP2 gene replacement
-- Cardiac gene delivery
-- Transgene expression
-- Protein restoration
-- Desmosomal localization
-- Translational research
-
-## Clinical development
-
+- Cardiac electrical signaling
+- Gene therapy
+- AAV-based cardiac gene delivery
 - RP-A601
 - NCT05885412
-- Phase 1 development
-- FDA interaction
-- Potential pivotal development
-- Regulatory designations
+- Clinical development
+- Regulatory development
+- Natural history and disease biology
 
----
-
-# Repository structure
-
-The repository is organized so that individual subjects can be researched separately rather than placing every topic into a single document.
-
-```text
-pkp2-arrhythmogenic-cardiomyopathy/
-│
-├── README.md
-│
-├── research/
-│   ├── pkp2-biology.md
-│   ├── plakophilin-2.md
-│   ├── pkp2-desmosome.md
-│   ├── pkp2-acm.md
-│   └── arrhythmogenic-cardiomyopathy.md
-│
-├── gene-therapy/
-│   ├── pkp2-gene-therapy.md
-│   └── aav-cardiac-gene-therapy.md
-│
-├── clinical-development/
-│   ├── rp-a601.md
-│   ├── rp-a601-phase-1.md
-│   └── nct05885412.md
-│
-├── glossary/
-│   └── cardiovascular-gene-therapy-terms.md
-│
-└── sources/
-    └── references.md
-```
-
-Each document will address a specific research question and use sources appropriate to that subject.
-
----
-
-# Sources and evidence
+## Sources and evidence
 
 The repository prioritizes primary and peer-reviewed sources.
 
-Important source categories include:
+Key source categories include:
 
 - ClinicalTrials.gov
 - U.S. Food and Drug Administration
 - Peer-reviewed biomedical literature
 - PubMed-indexed research
-- Company clinical and regulatory disclosures
+- Rocket Pharmaceuticals clinical and regulatory disclosures
 - Scientific conference presentations
 - Regulatory filings
 
-Company-reported clinical findings will be identified as company-reported findings rather than presented as independent scientific conclusions.
+Company-reported clinical findings are identified as company-reported findings rather than presented as independent scientific conclusions.
 
-Clinical trial status will be checked against the current trial registry before being described as current.
+Clinical trial status should be checked against the current trial registry before being described as current.
 
 Scientific claims should be supported by the relevant primary publication or authoritative source whenever possible.
 
-A detailed source index will be maintained in `sources/references.md`.
-
----
-
-# Editorial principles
-
-This repository follows a simple evidence hierarchy.
-
-Scientific mechanisms should be supported by peer-reviewed research.
-
-Clinical trial information should be checked against the relevant trial registry.
-
-Company-specific development information should be attributed to company disclosures.
-
-Regulatory information should be attributed to the relevant regulatory source or official company filing.
-
-Preliminary findings should remain clearly identified as preliminary.
-
-Investigational therapies should not be described as approved treatments.
-
-Claims should not be expanded beyond what the underlying source supports.
-
----
-
-# Disclaimer
+## Disclaimer
 
 This repository is provided for research and educational purposes.
 
@@ -600,10 +451,6 @@ Clinical trial status, development plans, regulatory discussions, and reported r
 
 For current clinical information, consult the relevant clinical trial registry, regulatory sources, scientific publications, and qualified healthcare professionals.
 
----
-
 ## Status
 
-Research resource.
-
-Actively maintained as relevant scientific publications, clinical trial information, and publicly available development updates become available.
+Research resource. Actively maintained as relevant scientific publications, clinical trial information, and publicly available development updates become available.
