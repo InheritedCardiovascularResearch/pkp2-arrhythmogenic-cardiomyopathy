@@ -230,17 +230,17 @@ Future data and longer follow-up are important for determining whether observed 
 
 ## Current development status of RP-A601
 
-As of the latest publicly available company update reviewed for this repository, the RP-A601 Phase 1 study remains open and enrolling.
+As of October 7, 2026, RP-A601 remains in Phase 1 clinical development for PKP2-associated arrhythmogenic cardiomyopathy.
 
-Rocket Pharmaceuticals has also reported continued engagement with the U.S. Food and Drug Administration concerning the design of a potential pivotal Phase 2 study.
+The Phase 1 study, registered as NCT05885412, remains open and actively enrolling. Rocket Pharmaceuticals has reported continued engagement with the U.S. Food and Drug Administration regarding alignment on the design of a potential pivotal Phase 2 study.
 
-This distinction is important.
+The company has reported preliminary Phase 1 findings including increased PKP2 protein expression and improved desmosomal localization, together with directional improvements in selected arrhythmia measures and right ventricular function.
 
-RP-A601 is not an approved treatment for PKP2-associated arrhythmogenic cardiomyopathy.
+These findings remain preliminary and should be interpreted in the context of an early-stage clinical study. RP-A601 is an investigational therapy and is not an approved treatment for PKP2-associated arrhythmogenic cardiomyopathy.
 
-A potential pivotal study represents a future stage of development and should not be described as an ongoing pivotal trial unless an official source confirms that status.
+A potential pivotal Phase 2 study should not be described as an ongoing pivotal trial unless Rocket or an authoritative clinical-trial source confirms that the study has entered that stage.
 
-The current status of the clinical trial should be checked against the latest ClinicalTrials.gov record and subsequent company disclosures.
+Current clinical-trial status should be checked against ClinicalTrials.gov and subsequent Rocket Pharmaceuticals disclosures.
 
 ## From Phase 1 to potential pivotal development
 
